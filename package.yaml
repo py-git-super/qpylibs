@@ -3,7 +3,7 @@ components:
   - component:
       name: battery
       path: qpylibs\base\battery
-      version: v0.0.1
+      version: v0.0.2
   - component:
       name: ADC
       path: qpylibs\base\bus\ADC
